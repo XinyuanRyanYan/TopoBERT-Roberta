@@ -10,7 +10,7 @@ TopoBERT requires python 3.6 and node.js 8.11.0 or higher.
 ## Data Loading
  * Create a folder ```data``` under the folder ```backend```
  * Download the dataset: ```roberta.zip``` from https://drive.google.com/drive/folders/1va-BA6DPkWqt5tke7kDM3U8iDh9hJTw-?usp=sharing 
- * Extract and put the datasets under the folder  ```data/```
+ * Extract and put the ```roberta.zip```  under the folder  ```data/```
 
 ## Installation
 
