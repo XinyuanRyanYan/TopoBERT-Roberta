@@ -1,0 +1,40 @@
+.DS_Store
+node_modules
+frontend/dist
+frontend/public/static/
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# backend
+backend/data/
+
+__pycache__/
+
+venv/
+
+notebooks/cache*/
+notebooks/images/
+backend/server/cache*/
+backend/server/cache/cache.db
+notebooks/gw-cache/*
+notebooks/Notes.md
+notebooks/COOT
+notebooks/HyperCOT
+zipped-datasets/*
