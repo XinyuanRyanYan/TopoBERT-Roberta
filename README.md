@@ -13,6 +13,13 @@ TopoBERT requires python 3.6 and node.js 8.11.0 or higher.
  * Extract and put the datasets under the folder  ```data/```
 
 ## Installation
+
+```
+git clone
+cd TopoBERT-Roberta
+```
+
+
 Start the server in one terminal 
 
 ```bash
