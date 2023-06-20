@@ -15,7 +15,7 @@ TopoBERT requires python 3.6 and node.js 8.11.0 or higher.
 ## Installation
 
 ```
-git clone
+git clone https://github.com/XinyuanRyanYan/TopoBERT-Roberta.git
 cd TopoBERT-Roberta
 ```
 
